@@ -1,1 +1,3 @@
-{}
+{
+  "baseBranchPatterns": ["renovate-updates"]
+}
