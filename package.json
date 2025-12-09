@@ -1,0 +1,9 @@
+{
+  "name": "renovate-mre-39883",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {},
+  "dependencies": {
+    "dayjs": "1.11.18"
+  }
+}
