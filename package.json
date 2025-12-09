@@ -4,6 +4,6 @@
   "private": true,
   "scripts": {},
   "dependencies": {
-    "dayjs": "1.11.19"
+    "dayjs": "1.11.18"
   }
 }
